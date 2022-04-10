@@ -1,5 +1,5 @@
 body {
-  background-image: url(images/fon3.jpg);
+  background-image: url(fon3.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -154,4 +154,7 @@ under-container {
   position: absolute;
   padding-top: 260px;
   padding-left: 850px;
+}
+nav {
+  display: inline;
 }
